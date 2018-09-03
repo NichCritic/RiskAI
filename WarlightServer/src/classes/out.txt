@@ -1,0 +1,5 @@
+starting game 0
+java bot.BotStarter
+java bot.BotStarter
+Nobody won
+
